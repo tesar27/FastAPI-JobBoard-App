@@ -2,6 +2,8 @@
 Job board app made with FastAPI as a Full-Stack Framework
 
 ![alt text](https://github.com/tesar27/FastAPI-JobBoard-App/tree/main/static/images/lite.gif?raw=true "Optional Title")
+![alt text](![image](https://user-images.githubusercontent.com/22916449/210404868-04203f9f-1a2c-4e2e-b162-ab53b5229fb9.png)
+
 
 
 # Technology Stack:
