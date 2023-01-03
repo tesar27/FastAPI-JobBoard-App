@@ -4,7 +4,7 @@ Job board app made with FastAPI as a Full-Stack Framework
 ![Alt text](https://github.com/tesar27/FastAPI-JobBoard-App/tree/main/static/images/lite.gif)
 
 
-Technology Stack:
+#Technology Stack:
 FastAPI
 Uvicorn (server)
 Pytest
