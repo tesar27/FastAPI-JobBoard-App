@@ -1,0 +1,2 @@
+from hashing import Hasher
+
