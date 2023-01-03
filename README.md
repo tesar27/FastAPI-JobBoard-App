@@ -11,7 +11,7 @@ Pytest
 Sqlalchemy
 Postgres
 How to start the app ?
-git clone https://github.com/nofoobar/FastAPI-JobBoard-App.git
+git clone [https://github.com/nofoobar/FastAPI-JobBoard-App.git](https://github.com/tesar27/FastAPI-JobBoard-App)
 cd .\FastAPI-JobBoard-App\
 python -m venv env   #create a virtual environment
 .\env\Scripts\activate  #activate your virtual environment
