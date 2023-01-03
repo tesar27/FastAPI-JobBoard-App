@@ -2,3 +2,4 @@
 ./test_db.db
 ./todo-app.db
 ./venv
+.env
