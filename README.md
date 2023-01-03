@@ -5,20 +5,20 @@ Job board app made with FastAPI as a Full-Stack Framework
 
 
 # Technology Stack:
-FastAPI
-Uvicorn (server)
-Pytest
-Sqlalchemy
-Postgres
-How to start the app ?
-git clone [https://github.com/nofoobar/FastAPI-JobBoard-App.git](https://github.com/tesar27/FastAPI-JobBoard-App)
-cd .\FastAPI-JobBoard-App\
-python -m venv env   #create a virtual environment
-.\env\Scripts\activate  #activate your virtual environment
-cd .\backend\
-pip install -r .\requirements.txt
-uvicorn main:app --reload     #start server
-visit  127.0.0.1:8000/
+-FastAPI
+-Uvicorn (server)
+-Pytest
+-Sqlalchemy
+-Postgres
+# How to start the app ?
+-git clone [https://github.com/nofoobar/FastAPI-JobBoard-App.git](https://github.com/tesar27/FastAPI-JobBoard-App)
+-cd .\FastAPI-JobBoard-App\
+-python -m venv env   #create a virtual environment
+-.\env\Scripts\activate  #activate your virtual environment
+-cd .\backend\
+-pip install -r .\requirements.txt
+-uvicorn main:app --reload     #start server
+-visit  127.0.0.1:8000/
 # Features:
 
 -✔️ Course FastAPI Course
